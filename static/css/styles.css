@@ -67,9 +67,8 @@ a {
   width: auto;
   padding: 0px;
   padding-left: 10px;
-  background-color: rgb(244, 244, 244);
+  background-color: rgb(255, 255, 255);
   position: relative;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.05), 0 6px 20px 0 rgba(0, 0, 0, 0.05);
 }
 
 .top-bar-row {
